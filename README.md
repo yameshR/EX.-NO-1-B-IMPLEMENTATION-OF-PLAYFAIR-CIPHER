@@ -132,7 +132,7 @@ void encryptByPlayfairCipher(char keyTable[5][5], char digraphs[][2], int size, 
 
 int main() {
     char text_Plain[] = "instruments";
-    char key[] = "Monarchy";
+    char key[] = "Yamesh R";
     char list1[] = "abcdefghiklmnopqrstuvwxyz";
     char digraphs[10][2]; // Max size is half the length of text_Plain
     char keyTable[5][5];
@@ -157,8 +157,7 @@ int main() {
 ```
 
 ## OUTPUT:
-
-![image](https://github.com/user-attachments/assets/c0cebdf4-15d8-448a-8093-a6d9730f7c22)
+![Screenshot 2024-08-28 160106](https://github.com/user-attachments/assets/149dc268-56e3-4c63-b96f-e3ffc64f5f25)
 
 
 ## RESULT:
